@@ -1,4 +1,5 @@
 # vuetodo
+## Basic Vue To Do App with Vuetify UI Kit
 
 ## Project setup
 ```
